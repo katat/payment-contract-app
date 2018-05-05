@@ -1,0 +1,15 @@
+@import '../../containers/App/styles/variables';
+
+:local(.styles) {
+
+  .btn {
+    cursor: pointer;
+
+    &.tertiary {
+      button {
+        background-color: $gold !important;
+      }
+    }
+  }
+
+}
