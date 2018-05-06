@@ -1,6 +1,6 @@
 # Payment contract dapp
 
-In addition to Webpack and React, this box adds: React-Router, Redux and Material-UI for easy skinning of a Dapp.
+A dapp front end for a payment solidity contract. For more details, please refer to the post [How blockchains offer real freedom to freelancers](https://medium.com/@katat/how-blockchains-offer-real-freedom-to-freelancers-4cde199423c0)
 
 
 ## Installation
